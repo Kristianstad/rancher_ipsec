@@ -1,1 +1,1 @@
-FROM rancher/net:v0.13.17
+FROM rancher/net:holder
